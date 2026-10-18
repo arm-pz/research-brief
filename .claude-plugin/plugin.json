@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "research-brief",
+  "version": "0.1.0",
+  "description": "Sourced research briefs: topic overviews, competitor and industry analysis, fact checks, literature maps, trend scans, due diligence and one-page exec briefs.",
+  "author": {
+    "name": "arm-pz",
+    "url": "https://github.com/arm-pz"
+  },
+  "homepage": "https://github.com/arm-pz/research-brief",
+  "repository": "https://github.com/arm-pz/research-brief",
+  "keywords": ["research", "competitive-intelligence", "due-diligence", "fact-checking", "market-analysis", "executive-brief"],
+  "skills": "./skills/"
+}
